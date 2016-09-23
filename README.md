@@ -8,3 +8,4 @@ Repo to store my iPython notebooks for NGS data analyses
 * [Epi2_pilot_datasets_analysis_PTM](http://nbviewer.ipython.org/github/a-slide/iPython-Notebook/blob/master/Notebooks/2016_05_23_Epi2_pilot_datasets_analysis_PTM.ipynb)
 * [Epi2_pilot_datasets_analysis_localization](http://nbviewer.ipython.org/github/a-slide/iPython-Notebook/blob/master/Notebooks/2016_07_02_Epi2_pilot_datasets_analysis_localization.ipynb)
 * [Epi2_pilot_datasets_analysis_protein_interaction](http://nbviewer.ipython.org/github/a-slide/iPython-Notebook/blob/master/Notebooks/2016_XX_XX_Epi2_pilot_datasets_analysis_protein_interaction.ipynb)
+* [Epi2_pilot_datasets_cross_analysis](https://nbviewer.jupyter.org/github/a-slide/iPython-Notebook/blob/master/Notebooks/2016_08_04_Epi2_pilot_datasets_cross_analysis.ipynb)
